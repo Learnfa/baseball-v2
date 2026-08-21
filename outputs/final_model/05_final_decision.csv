@@ -1,0 +1,2 @@
+final_configuration,float_oof_mae,rounded_oof_mae,float_chronological_mae,rounded_chronological_mae,anchor_model,anchor_feature_set,anchor_weight,partner_model,partner_feature_set,partner_weight,prediction_form,rounded_predictions
+elasticnet_0.90__ridge_0.10,2.7262814349341262,2.7030905077262695,2.3765783541041414,2.361266294227188,elasticnet,all_domain_raw,0.9,ridge,all_domain_raw,0.1,rounded,True

@@ -1,0 +1,5 @@
+severity,check,count,message
+WARNING,ambiguous_franchise_year,384,franchID + yearID is not unique; franchise-based lag features are unsafe.
+WARNING,ambiguous_franchise_year,384,franchID + yearID is not unique; franchise-based lag features are unsafe.
+WARNING,cross_file_team_year_overlap,361,teamID + yearID overlaps across train/prediction; identity metadata must not be assumed reliable.
+WARNING,cross_file_team_year_overlap,361,teamID + yearID overlaps across train/prediction; identity metadata must not be assumed reliable.

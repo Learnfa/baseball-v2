@@ -1,0 +1,3 @@
+_source,rows,rows_with_exact_prior_year,exact_prior_year_rate
+pred,453,339,74.83
+train,1812,1467,80.96

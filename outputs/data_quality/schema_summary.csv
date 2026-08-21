@@ -1,0 +1,7 @@
+metric,value
+train_rows,1812
+train_columns,52
+prediction_rows,453
+prediction_columns,48
+train_only_columns,"W, decade_label, win_bins, year_label"
+prediction_only_columns,<none>

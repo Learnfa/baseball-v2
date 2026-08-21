@@ -1,0 +1,10 @@
+decision,value
+Data-quality status,USABLE WITH CAVEATS
+Structural blocker checks,0
+Warning checks,4
+Use ID as row identifier,True
+Use numeric season statistics for EDA/modeling,True
+Use W as supervised target,True
+Use teamID/franchID as model predictors,False
+Use yearID for EDA and year-aware validation,True
+Use franchise/team lag features,False

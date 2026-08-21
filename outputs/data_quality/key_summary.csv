@@ -1,0 +1,11 @@
+check,count
+Duplicate train IDs,0
+Duplicate prediction IDs,0
+IDs in both files,0
+Duplicate train team-years,0
+Duplicate prediction team-years,0
+Team-years in both files,361
+Duplicate train franchise-years,78
+Duplicate prediction franchise-years,0
+Franchise-years in both files,320
+Duplicate combined franchise-years,384
